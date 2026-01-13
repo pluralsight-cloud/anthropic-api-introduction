@@ -19,6 +19,7 @@ To follow along with the demos, first complete the following steps:
 
     ```bash
     uv init
+    uv venv
     uv add anthropic python-dotenv ipykernel
     ```
 
